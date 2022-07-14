@@ -63,15 +63,19 @@
 </div>
 
 <br />
-  <details align="left">
-    <summary>My latest project with my fellow friends 🚧</summary>
+  <details align="center">
+    <summary>My latest projects 🚀</summary>
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=KKM&theme=github_dark)](https://github.com/siddAhmed/KKM)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma_ciphers_cryptograms)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=ravioli&theme=github_dark)](https://github.com/siddAhmed/ravioli)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=Dulin&theme=github_dark)](https://github.com/siddAhmed/Dulin)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=metric-imperial-converter)](https://github.com/siddAhmed/metric-imperial-converter)
     
   </details>
+  <details>
+    <summary>Code Snippets 👨‍💻</summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=leetcodeSolutions)](https://github.com/siddAhmed/leetcodeSolutions)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=cp)](https://github.com/siddAhmed/cp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=twt-weekly-challenge-solution)](https://github.com/siddAhmed/twt-weekly-challenge-solution)
+  </details >
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddAhmed&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats">
   <br />

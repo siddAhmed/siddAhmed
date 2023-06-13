@@ -20,20 +20,19 @@
   <br />
   <br />
 
-  I'm a Computer Science student, currently exploring Data Science, Competitive Programming, Web Development and other techonologies.Passionate about designing and developing practical, fast and efficient applications using a range of techonologies and languages.
+I am a Computer Science student currently exploring Data Science, Competitive Programming, Web Development, and other technologies. I am passionate about designing and developing practical, fast, and efficient applications using a range of technologies and languages.
+<br />
+
+I'm currently based in **[Mumbai, India](https://goo.gl/maps/pL8E4Zeh4iASa1wJ9)**
+
+  <br />
+  I love tinkering with electronics and new technology, as well as using new tools. Additionally, I have a fondness for cats! 🐈
+  <br />
   <br />
 
-  I'm currently based in **[Mumbai, India](https://goo.gl/maps/pL8E4Zeh4iASa1wJ9)**
-
-  <br />
-  I love to fiddle with electronics and new technology and using new tools. I also love cats! 🐈
-  <br />
-  <br />
-
-  Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-  Ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
-  <br />
-  <br />
+Please feel free to clone/fork my projects, raise issues, and submit pull requests if you believe something could be improved. You can ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or you can also send me an <a href="mailto:ahmedsidd45@gmail.com">email</a>.
+<br />
+<br />
 
 <div align="center">
 
@@ -49,7 +48,7 @@
   <a margin="10" href="https://fastapi.tiangolo.com/" target="_blank"><img margin="10px" height="40" src="/assets/icons/fastapi.svg" alt="fastapi"></a>
   <br />
   <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="assets/icons/figma.gif" alt="figma"></a>
-  <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="assets/icons/github.gif" alt="github"></a>
+  <a margin="10" href="https://github.com" target="_blank"><img margin="10px" height="40" src="assets/icons/github.gif" alt="github"></a>
   <br />
   <a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="assets/icons/c.svg" alt="c programming"></a>
   <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="assets/icons/firebase.svg" alt="firebase"></a>
@@ -65,34 +64,57 @@
 <br />
   <details align="center">
     <summary>My latest projects 🚀</summary>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=metric-imperial-converter)](https://github.com/siddAhmed/metric-imperial-converter)
+		<br />
+
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=PeerEdit&theme=material-palenight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=PeerEdit&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=PeerEdit" />
+  </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=webrtc-demo&theme=material-palenight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=webrtc-demo&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=webrtc-demo" />
+  </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor&theme=material-palenight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor" />
+  </picture>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=twt-weekly-challenge-solution&theme=material-palenight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=twt-weekly-challenge-solution&theme=solarized-light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=twt-weekly-challenge-solution" />
+  </picture>
     
   </details>
-  <details>
-    <summary>Code Snippets 👨‍💻</summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=leetcodeSolutions)](https://github.com/siddAhmed/leetcodeSolutions)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=cp)](https://github.com/siddAhmed/cp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=twt-weekly-challenge-solution)](https://github.com/siddAhmed/twt-weekly-challenge-solution)
-  </details >
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddAhmed&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats">
-  <br />
-  <br />
-
-  **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=siddAhmed&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddAhmed&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
   <br />
 
-  <!-- activity graph heroku-app start -->
-  <p align="center">
-      <a href="https://wakatime.com/@Voko">
-          <img src="https://activity-graph.herokuapp.com/graph?username=siddAhmed&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-      </a>
-  </p>
-  <!-- activity graph heroku-app end -->
-
 </div>
-

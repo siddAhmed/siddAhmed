@@ -30,7 +30,7 @@ I'm currently based in **[Mumbai, India](https://goo.gl/maps/pL8E4Zeh4iASa1wJ9)*
   <br />
   <br />
 
-Please feel free to clone/fork my projects, raise issues, and submit pull requests if you believe something could be improved. You can ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or you can also send me an <a href="mailto:ahmedsidd45@gmail.com">email</a>.
+Please feel free to clone/fork my projects, raise issues, and submit pull requests if you believe something could be improved. You can ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or you can also send me an **<a href="mailto:ahmedsidd45@gmail.com">email</a>**.
 <br />
 <br />
 

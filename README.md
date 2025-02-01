@@ -15,12 +15,11 @@
 
   <br />
 
-I am a senior year CS student based in **[Mumbai, India](https://goo.gl/maps/pL8E4Zeh4iASa1wJ9)** currently exploring Machine Learning & Web Development. 
-I am passionate about designing and developing practical, fast, and efficient applications using a range of technologies and languages. I enjoy experimenting with electronics as a hobby. 
-Moreover, I have a soft spot for cats! 🐈
+I am an Associate Software Developer based in **[Mumbai, India](https://goo.gl/maps/pL8E4Zeh4iASa1wJ9)**, currently exploring Backend Systems and Data Structures. 
+I enjoy hobbyist electronics & I have a soft spot for cats! 🐈
   <br />
 
-Please feel free to clone/fork my projects, raise issues, and submit pull requests if you believe something could be improved. You can ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or you can also send me an **<a href="mailto:ahmedsidd45@gmail.com">email</a>**.
+You can ask me anything **[here](https://github.com/siddAhmed/siddAhmed/issues/new)** or you can also send me an **<a href="mailto:ahmedsidd45@gmail.com">email</a>**.
   <br />
   <br />
 

@@ -80,18 +80,6 @@ Please feel free to clone/fork my projects, raise issues, and submit pull reques
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=webrtc-demo" />
   </picture>
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor&theme=material-palenight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor&theme=solarized-light"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddAhmed&repo=meal-suggestor" />
-  </picture>
-
     
   </details>
 
